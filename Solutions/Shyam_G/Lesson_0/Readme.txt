@@ -10,7 +10,7 @@ IDE Used : PyCharm Community Edition
 Lesson Learned :
 
 1: File which you are executing is treated as main so inside the file if you compare name with main then it will check which
-file is executed and accordingly function will execute.
+   file is executed and accordingly function will execute.
 
 2: How to write function
 
@@ -19,3 +19,13 @@ file is executed and accordingly function will execute.
 4: how to import files/function from other files.
 
 5: structure of if/else
+
+6: Learned git commands
+	- git status
+	- git add
+	- git commit
+	- git push
+	- git gui
+	- gitk
+	- git pull
+	- git log
